@@ -8,6 +8,8 @@ In our application we aslo do aggregate jobs from different job portals in one a
 
 So with the help of our portal folks can come have an account with Metamask where there data is private and without their permission their details won't be updated to any recruiter, with this we keep everything private and anonmyous.
 
+In the neext update we are also trying to implement Zero-Knowledge proofs in our application were users data will be kept in zk-proofs so that even after getting job while receiving any pay, the user can be anonymous without any fear of public.
+
 Technologies : NextJS,Solidity,Hardhat,Css
 
 
