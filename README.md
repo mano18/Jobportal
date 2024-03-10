@@ -12,7 +12,7 @@ We have also integrated Push Notifications where folks will be getting notificat
 
 In the neext update we are also trying to implement Zero-Knowledge proofs in our application were users data will be kept in zk-proofs so that even after getting job while receiving any pay, the user can be anonymous without any fear of public.
 
-Technologies : NextJS,Solidity,Hardhat,Css
+Technologies : NextJS,Solidity,Hardhat,Css,js
 
 
 
